@@ -64,6 +64,9 @@ Dessa forma, o laboratório oferece um ambiente tecnológico confiável,
 seguro e eficiente, impactando positivamente a qualidade dos projetos e
 resultados científicos do GMPRF.
 
+**Acesso:** http://35.172.182.80/
+**Git:** https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-thalitakesiaa
+
 ------------------------------------------------------------------------
 
 ## Laboratório 3
